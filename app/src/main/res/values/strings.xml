@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdcleverCamera</string>
+    <string name="upload_name">Upload Camera</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="selectdate">Pick time</string>
+</resources>
